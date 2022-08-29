@@ -11,7 +11,7 @@ Deep Thoughts is a social media app where users can create an account to share t
 ## Tools Used
 
 - Javascript
-- JS6+
+- JSX
 - MongoDB
 - Express
 - React
